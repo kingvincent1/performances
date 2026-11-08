@@ -181,7 +181,7 @@
             </div>
             <div class="detail-row">
                 <span class="label">Time</span>
-                <span class="value">6:00PM - 9:00PM</span>
+                <span class="value">7:00PM - 9:00PM</span>
             </div>
             <div class="detail-row">
                 <span class="label">Location</span>
